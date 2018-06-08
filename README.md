@@ -32,9 +32,9 @@ The curriculum is broken down into different units, each focusing on a different
 
 After successfully completing a unit, participants are awarded with a "badge" (a physical badge and virtual credential) from the curriculum badge tree.
 
-| Unit | Objectives | Tools |
-| --- | --- | --- |
-| Rocket Science | <ul><li>Build a rocket<li>Get rocket into specified orbit<li>Land on Mun and return to Kerbal</ul> | [Kerbal Space Program](https://kerbalspaceprogram.com/) |
+| Unit | Focus | Objectives | Skills | Tools |
+| --- | --- | --- | --- | --- |
+| Rocket Science | Understanding rocketry and physics | <ul><li>Build a rocket<li>Get rocket into specified orbit<li>Land on Mun and return to Kerbal</ul> | What skills? | [Kerbal Space Program](https://kerbalspaceprogram.com/) |
 
 # Infrastructure
 
