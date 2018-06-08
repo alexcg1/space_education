@@ -32,13 +32,17 @@ The curriculum is broken down into different units, each focusing on a different
 
 After successfully completing a unit, participants are awarded with a "badge" (a physical badge and virtual credential) from the curriculum badge tree.
 
+| Unit | Objectives | Tools |
+| --- | --- | --- |
+| Rocket Science | Build a rocket; Get rocket into specified orbit; Land on Mun and return to Kerbal | [Kerbal Space Program](https://kerbalspaceprogram.com/) |
+
 # Infrastructure
 
 ## Badges
 
 ![](images/badges.jpg)
 
-Everyone loves a gold star or a badge to show they've achieved something and to show off to their peers. This helps give a sense of achievement, motivates participants to aim for the next badge, and builds community
+Everyone loves a gold star or a badge to show they've achieved something and to show off to their peers. This helps give a sense of achievement, motivates participants to aim for the next badge, and builds community.
 
 We can integrate badges into our curriculum using the [Open Badges](https://openbadges.org/) framework, and look at building in a blockchain component to securely store achievements (which can be presented as proof of achievement to future employers or academic institutions).
 
