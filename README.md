@@ -1,4 +1,8 @@
-I'm putting together some ideas to improve space education by using hands-on technologies. I work in China sometimes, so if I reference China that's why!
+# Introduction
+
+I'm putting together some ideas to improve aerospace education by using hands-on technologies. This is still a work in progress, and written in a very informal style. For the final version I'll rewrite it into a more formal curriculum.
+
+I work in China sometimes, so if I reference China that's why!
 
 # Space Education is Abstract and Theoretical
 
@@ -16,7 +20,7 @@ But you can get hands-on with the stuff that actually gets humanity to space. An
 
 I'm all about getting my hands dirty, and I want to encourage other people to do the same. That's the only way we're ever going to get humanity to those spinning balls of rocks, and maybe live on them someday.
 
-Luckily, there are a bunch of projects out there that let us roll up our sleeves and get involved. This course outline aims to use some of these and bash them together into some kind of logical and unified curriculum.
+Luckily, there are a bunch of projects out there that let us roll up our sleeves and get involved. This course outline aims to use some of these and bash them together into some kind of logical and unified curriculum, helping participants gain skills in STE(A)M and maker education.
 
 # Curriculum
 
@@ -38,8 +42,10 @@ After successfully completing a unit, participants are awarded with a "badge" (a
 
 | Unit | Focus | Objectives | Skills | Tools |
 | --- | --- | --- | --- | --- |
-| Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerbal Space Program](https://kerbalspaceprogram.com/) |
+| Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerba Program](https://kerbalspaceprogram.com/) |
 | Rocket Engineering | Competing to build the "best" rocket | <ul><li>Work in teams to design a bottle rocket<li>Model it in Kerbal Space Program and adjust as necessary<li>Build rocket<li>Launch rocket | <ul><li>Scientific method and reasoning<li>Maker skills<li>Computer simulation and modeling </ul>| <ul><li>[Kerbal Space Program](https://kerbalspaceprogram.com/)<li>[Bottle Rocket kits](http://www.instructables.com/id/How-To-Make-A-Bottle-Rocket/) |
+| Astronomy | Building a telescope to view celestial bodies | <ul><li>Understand principles of optics and telescopes<li>(Team) build a telescope<li>Log celestial bodies</ul> | <ul><li>3D printing</li><li>Astronomy</li><li>Raspberry Pi/Arduino</li></ul> | <ul><li>[PiKon](https://pikonic.com/) (Elementary)</li><li>[Ultrascope](http://www.openspaceagency.com/ultrascope/) (Advanced)</li> |
+
 
 
 # Infrastructure
