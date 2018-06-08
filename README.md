@@ -24,23 +24,14 @@ Luckily, there are a bunch of projects out there that let us roll up our sleeves
 
 # Curriculum
 
-The curriculum is broken down into different units, each focusing on a different goal and skills.
+The curriculum is broken down into different units, each focusing on different objectives and skills.
 
-* **Rocket Science**: Understanding rocketry and physics
-* **Rocket Engineering**: Building and launching simple rockets
-* **Astronomy**: Building and using a telescope
-* **Satellites 1**: Building and testing your own satellite
-* **Satellites 2**: Teamwork to build and test a more complex satellite
-* **Satellites 3**: Programming and testing a Cubesat
-* **Asteroid Prospecting**: Learn about asteroids and identify interesting ones for colonization or resources
-* **Asteroid Mining**: Teams design and build a mining robot to extract resources
-* **Space Pioneer**: Teams design and create mockups of extra-terrestrial habitats
+**Before each activity**: Participants create a Design Contract, in which they consider what they want to achieve, how to achieve it, how to show they've achieved it, the resources they'll need, and anything that might get in their way.
 
-Before each activity, participants create a Design Contract, in which they consider what they want to achieve, how to achieve it, how to show they've achieved it, the resources they'll need, and anything that might get in their way.
+**At the end of each unit**:
 
-At the end of each unit, participants present their findings and results via a presentation, short video, or document.
-
-After successfully completing a unit, participants are awarded with a "badge" (a physical badge *and* virtual credential) from the curriculum badge tree. (There's more information on this in the *infrastructure* section below)
+* Participants present their findings and results via a presentation, short video, or document.
+* After successfully completing a unit, participants are awarded with a "badge" (a physical badge *and* virtual credential) from the curriculum badge tree. (There's more information on this in the *infrastructure* section below)
 
 | Unit | Focus | Objectives | Skills | Tools |
 | --- | --- | --- | --- | --- |
@@ -54,7 +45,6 @@ After successfully completing a unit, participants are awarded with a "badge" (a
 | Asteroid Prospecting | Learn about asteroids and identify interesting ones for colonization or resources | Coming soon | Coming soon | Coming soon |
 | Asteroid Mining | Teams design and build a mining robot to extract resources | Coming soon | Coming soon | Coming soon |
 | Settling Space | Teams design and create mockups of extra-terrestrial habitats | Coming soon | Coming soon | Coming soon |
-
 
 # Infrastructure
 
