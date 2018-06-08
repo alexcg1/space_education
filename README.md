@@ -6,7 +6,7 @@ Right now, when schools teach about space it's pretty abstract and dry. Here are
 
 Anyone who is naturally interested in space might be inspired by this stuff -- but those are likely the kind of folks who'd rush out to find this stuff out anyway. How do we make space super-interesting and accessible to the average person, and really get them involved in mankind's biggest journey?
 
-My answer draws upon my work with SpaceGAMBIT (an open-source space program) and makerspaces, hackerspacces, and Fab Labs (a global network of workshops with a whole bunch of tools, that pretty much anyone can use)
+My answer draws upon my work with SpaceGAMBIT (an open-source space program) and makerspaces, hackerspaces, and Fab Labs (a global network of workshops with a whole bunch of tools, that pretty much anyone can use)
 
 # Making Space Hands-On
 
@@ -15,6 +15,20 @@ Space is a big, black inky void, full of spinning balls of rock or gas. That's w
 But I'm all about getting my hands dirty, and I want to encourage other people to do the same. That's the only way we're ever going to get humanity to those spinning balls of rocks, and maybe live on them someday.
 
 Luckily, there are a bunch of projects out there that let us roll up our sleeves and get involved. This course outline aims to use some of these and bash them together into some kind of logical and unified curriculum.
+
+# Curriculum
+
+The curriculum is broken down into different units, each focusing on a different goal and skills. Each unit is awarded with a badge (physical and virtual) to show the goal has been achieved.
+
+* **Rocket Science**: Understanding rocketry and physics
+* **Rocket Engineering**: Building and launching simple rockets
+* **Astronomy**: Building and using a telescope
+* **Satellites 1**: Building and testing your own satellite
+* **Satellites 2**: Teamwork to build and test a more complex satellite
+* **Satellites 3**: Programming and testing a Cubesat
+* **Asteroid Prospecting**: Learn about asteroids and identify interesting ones for colonization or resources
+* **Asteroid Mining**: Teams design and build a mining robot to extract resources
+* **Space Pioneer**: Teams design and create mockups of extra-terrestrial habitats
 
 # Cool Shiny Technologies to Get People Hooked
 
