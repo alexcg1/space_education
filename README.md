@@ -1,18 +1,20 @@
 I'm putting together some ideas to improve space education by using hands-on technologies. I work in China sometimes, so if I reference China that's why!
 
-# Space Education Is Good, But It Ain't Great
+# Space Education is Abstract and Theoretical
 
-Right now, when schools teach about space it's pretty abstract and dry. Here are the planets. Here's how they were formed. Here's gravity. A bloke called Armstrong went to the Moon and some other astronauts brought back some rocks.
+Right now, when schools teach about space it's pretty dry. Here are the planets. Here's how they were formed. Here's gravity. A bloke called Armstrong went to the Moon and brought back some rocks.
 
-Anyone who is naturally interested in space might be inspired by this stuff -- but those are likely the kind of folks who'd rush out to find this stuff out anyway. How do we make space super-interesting and accessible to the average person, and really get them involved in mankind's biggest journey?
+Anyone who is *naturally* interested in space might be inspired by this stuff -- but those are the people who'd rush out to find this stuff out anyway. How do we get everyone else involed? How do we make space super-interesting and accessible to the average person, and really get them involved in mankind's biggest journey?
 
 My answer draws upon my work with SpaceGAMBIT (an open-source space program) and makerspaces, hackerspaces, and Fab Labs (a global network of workshops with a whole bunch of tools, that pretty much anyone can use)
 
-# Making Space Hands-On
+# Let's Make Space Hands-On
 
-Space is a big, black inky void, full of spinning balls of rock or gas. That's what astronomy and cosmology are all about, and most of us think those subjects are pretty damn cool.
+Space is a big, black inky void, full of spinning balls of rock or gas. No wonder it seems abstract to many people. You can't exactly get hands-on with Saturn's rings.
 
-But I'm all about getting my hands dirty, and I want to encourage other people to do the same. That's the only way we're ever going to get humanity to those spinning balls of rocks, and maybe live on them someday.
+But you can get hands-on with the stuff that actually gets humanity to space. And that's the most exciting stuff of all. It's all about exploring the unknown and pushing the frontiers of human achievement.
+
+I'm all about getting my hands dirty, and I want to encourage other people to do the same. That's the only way we're ever going to get humanity to those spinning balls of rocks, and maybe live on them someday.
 
 Luckily, there are a bunch of projects out there that let us roll up our sleeves and get involved. This course outline aims to use some of these and bash them together into some kind of logical and unified curriculum.
 
@@ -32,12 +34,13 @@ The curriculum is broken down into different units, each focusing on a different
 
 At the end of each unit, participants will present their findings and results via a presentation, short video, or document.
 
-After successfully completing a unit, participants are awarded with a "badge" (a physical badge and virtual credential) from the curriculum badge tree.
+After successfully completing a unit, participants are awarded with a "badge" (a physical badge *and* virtual credential) from the curriculum badge tree.
 
 | Unit | Focus | Objectives | Skills | Tools |
 | --- | --- | --- | --- | --- |
 | Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerbal Space Program](https://kerbalspaceprogram.com/) |
 | Rocket Engineering | Competing to build the "best" rocket | <ul><li>Work in teams to design a bottle rocket<li>Model it in Kerbal Space Program and adjust as necessary<li>Build rocket<li>Launch rocket | <ul><li>Scientific method and reasoning<li>Maker skills<li>Computer simulation and modeling </ul>| <ul><li>[Kerbal Space Program](https://kerbalspaceprogram.com/)<li>[Bottle Rocket kits](http://www.instructables.com/id/How-To-Make-A-Bottle-Rocket/) |
+
 
 # Infrastructure
 
@@ -48,6 +51,8 @@ After successfully completing a unit, participants are awarded with a "badge" (a
 Everyone loves a gold star or a badge to show they've achieved something and to show off to their peers. This helps give a sense of achievement, motivates participants to aim for the next badge, and builds community.
 
 We can integrate badges into our curriculum using the [Open Badges](https://openbadges.org/) framework, and look at building in a blockchain component to securely store achievements (which can be presented as proof of achievement to future employers or academic institutions).
+
+![](images/open_badges.png)
 
 ## Online Platform
 
