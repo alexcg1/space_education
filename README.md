@@ -18,7 +18,7 @@ Luckily, there are a bunch of projects out there that let us roll up our sleeves
 
 # Curriculum
 
-The curriculum is broken down into different units, each focusing on a different goal and skills. Each unit is awarded with a badge (physical and virtual) to show the goal has been achieved.
+The curriculum is broken down into different units, each focusing on a different goal and skills.
 
 * **Rocket Science**: Understanding rocketry and physics
 * **Rocket Engineering**: Building and launching simple rockets
@@ -30,7 +30,40 @@ The curriculum is broken down into different units, each focusing on a different
 * **Asteroid Mining**: Teams design and build a mining robot to extract resources
 * **Space Pioneer**: Teams design and create mockups of extra-terrestrial habitats
 
-# Cool Shiny Technologies to Get People Hooked
+After successfully completing a unit, participants are awarded with a "badge" (a physical badge and virtual credential) from the curriculum badge tree.
+
+# Infrastructure
+
+## Badges
+
+![](images/badge_tree.jpg)
+
+Everyone loves a gold star or a badge to show they've achieved something and to show off to their peers. This helps give a sense of achievement, motivates participants to aim for the next badge, and builds community
+
+We can integrate badges into our curriculum using the [Open Badges](https://openbadges.org/) framework, and look at building in a blockchain component to securely store achievements (which can be presented as proof of achievement to future employers or academic institutions).
+
+## Online Platform
+
+If we want to get a lot of people involved and build a community, we need a platform. 
+
+* This should work worldwide, regardless of internet censorship, language, bandwidth, screen size, or computer power considerations
+* For data security, this should be self-hosted and not tie into existing social media frameworks (especially if we're looking to involve kids)
+* It should integrate a (very limited) social network, badging, blog, code repository and file hosting
+* It should be open-source
+
+[DIY.org](https://diy.org/) is a very nice example of what we could aim for (albeit we'd need to add a few more features)
+
+## Offline Structure
+
+Teachers, props, classrooms, textbooks, and so on. These are highly dependent on conditions on the ground, so let's cross that bridge when we come to it.
+
+<hr>
+
+Rest of the document to come soon...
+
+<hr>
+
+# Appendix: Cool Shiny Technologies to Get People Hooked
 
 Really difficult stuff is often described as *rocket science*. I think that scares people about real rocket science and space in general. Space is seen as too big, too difficult, and too expensive for the Average Joe (or the Average Zhou if you're in China) to get involved.
 
@@ -99,12 +132,6 @@ This contest puts high school students in the shoes of aerospace industry engine
 Each year the Competition organizers develop a new design scenario with its own special requirements. Contest teams work together to create a 40-page report that addresses the issues and communicates their ideas and designs.
 
 **Skills:** Management skills, teamwork, presentation skills, engineering
-
-<hr>
-
-Rest of the document to come soon...
-
-<hr>
 
 # How Do We Put it All Together?
 
