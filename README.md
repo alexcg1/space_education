@@ -38,7 +38,7 @@ The curriculum is broken down into different units, each focusing on different o
 | Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerbal Space Program](https://kerbalspaceprogram.com/) |
 | Rocket Engineering | Competing to build the "best" rocket | <ul><li>Work in teams to design a bottle rocket<li>Model it in Kerbal Space Program and adjust as necessary<li>Build rocket<li>Launch rocket | <ul><li>Scientific method and reasoning<li>Maker skills<li>Computer simulation and modeling </ul>| <ul><li>[Kerbal Space Program](https://kerbalspaceprogram.com/)<li>[Bottle Rocket kits](http://www.instructables.com/id/How-To-Make-A-Bottle-Rocket/) |
 | Astronomy | Building a telescope to view celestial bodies | <ul><li>Understand principles of optics and telescopes<li>(Team) build a telescope<li>Log celestial bodies</ul> | <ul><li>3D printing</li><li>Astronomy</li><li>Raspberry Pi/Arduino</li></ul> | <ul><li>[PiKon](https://pikonic.com/) (Elementary)</li><li>[Ultrascope](http://www.openspaceagency.com/ultrascope/) (Advanced)</li> |
-| Satellites 1: Kicksats | Build and test your own satellite | <ul><li>Learn about how satellites are used</li><li>Learn about weight/power restrictions, etc</li><li>Construct a Kicksat Sprite</li><li>Program a Kicksat Sprite</li></ul> | <ul><li>Circuits</li><li>Soldering</li><li>Basic Arduino programming</li></ul> | <ul><li>[Kicksat Sprite kits](http://kicksat.github.io/)</li><li>[Arduino Create](https://create.arduino.cc/) |
+| Satellites 1: Kicksats | Build and test your own satellite | <ul><li>Learn about how satellites are used</li><li>Learn about weight/power restrictions, etc</li><li>Construct a Kicksat Sprite</li><li>Program a Kicksat Sprite</li><li>Basic Git usage</li></ul> | <ul><li>Circuits</li><li>Soldering</li><li>Basic Arduino programming</li></ul> | <ul><li>[Kicksat Sprite kits](http://kicksat.github.io/)</li><li>[Arduino Create](https://create.arduino.cc/)</li><li>[Github](http://www.github.com)/[Gitlab](http://www.gitlab.com)</li></ul> |
 | Satellites 2: Ground Stations | Coming soon | Coming soon | Coming soon | Coming soon |
 | Satellites 3: Cansats | Coming soon | Coming soon | Coming soon | Coming soon |
 | Satellites 4: Cubesats | Coming soon | Coming soon | Coming soon | Coming soon |
@@ -111,6 +111,10 @@ All files are freely available to download, and we can work with local, small-qu
 
 **Skills:** Circuit design, basic programming, soldering
 
+## PiKon
+
+[The PiKon telescope](https://pikonic.com/) is a DIY astro-camera you can easily build at home, based on two disruptive technologies: 3D printing and Raspberry Pi cameras.
+
 ## Ultrascope
 
 ![](images/ultrascope.png)
@@ -141,6 +145,8 @@ We all know what [Cubesats](https://en.wikipedia.org/wiki/CubeSat) are. I don’
 
 **Skills:** Systems design, radios, mission planning
 
+# Events and Competitions
+
 ## International Space Settlement Design Competition
 
 ![](images/settlement.jpg)
@@ -153,10 +159,22 @@ Each year the Competition organizers develop a new design scenario with its own 
 
 **Skills:** Management skills, teamwork, presentation skills, engineering
 
-# How Do We Put it All Together?
+## NASA Robotic Mining Competition
 
-# Infrastructure
-
-# Advantages
+[This annual event](https://www.nasa.gov/offices/education/centers/kennedy/technology/nasarmc.html) brings more than 50 college teams, 500 students and their mining robots from across the country, including Alaska, Hawaii and Puerto Rico, to Kennedy Space Center. Since water ice is prevalent throughout the Red Planet, the Robotic Mining Competition has revised the rules and rubrics to reflect this discovery. The Competition challenge is to mine the precious icy regolith (gravel). This water ice will provide oxygen, water and fuel for future off-world colonists.
 
 # Other People Doing Cool Stuff
+
+These would make interesting partners, or their programs could be adapted for other countries (e.g. there is already a [UK SEDS chapter](https://ukseds.org/) - why not a China one too?)
+
+## SEDS
+
+[Students for the Exploration and Development of Space (SEDS)](http://seds.org/seds/) is a 501(c)3 non-profit that empowers young people to participate and make an impact in space exploration. SEDS helps students develop their technical and leadership skills by providing opportunities to manage and participate in national projects as well as to attend conferences, publish their work, and develop their professional network, in order to help students become more effective in their present and future careers in industry, academia, government, and education.
+
+## Space Generation Advisory Council
+
+[The Space Generation Advisory Council](https://spacegeneration.org/) is a global non-governmental, non-profit (US 501(c)3) organisation and network which aims to represent university students and young space professionals to the United Nations, space agencies, industry, and academia.
+
+## International Space University
+
+[The International Space University](https://www.isunet.edu/) is a university dedicated to the discovery, research and development of outer space exploration for peaceful purposes, through international and multidisciplinary education and research programs.
