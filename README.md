@@ -36,7 +36,7 @@ After successfully completing a unit, participants are awarded with a "badge" (a
 
 ## Badges
 
-![](images/badge_tree.jpg)
+![](images/badges.jpg)
 
 Everyone loves a gold star or a badge to show they've achieved something and to show off to their peers. This helps give a sense of achievement, motivates participants to aim for the next badge, and builds community
 
