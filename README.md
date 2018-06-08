@@ -34,9 +34,7 @@ After successfully completing a unit, participants are awarded with a "badge" (a
 
 | Unit | Objectives | Tools |
 | --- | --- | --- |
-| Rocket Science | * Build a rocket
-* Get rocket into specified orbit
-* Land on Mun and return to Kerbal | [Kerbal Space Program](https://kerbalspaceprogram.com/) |
+| Rocket Science | <ul><li>Build a rocket<li>Get rocket into specified orbit<li>Land on Mun and return to Kerbal</ul> | [Kerbal Space Program](https://kerbalspaceprogram.com/) |
 
 # Infrastructure
 
