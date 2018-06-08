@@ -41,7 +41,7 @@ The curriculum is broken down into different units, each focusing on different o
 | Satellites 1: Kicksats | Build and test your own satellite | <ul><li>Learn about how satellites are used</li><li>Learn about weight/power restrictions, etc</li><li>Construct a Kicksat Sprite</li><li>Program a Kicksat Sprite</li></ul> | <ul><li>Circuits</li><li>Soldering</li><li>Basic Arduino programming</li></ul> | <ul><li>[Fritzing](fritzing.org/)</li><li>[Kicksat Sprite kits](http://kicksat.github.io/)</li><li>[Arduino Create](https://create.arduino.cc/) |
 | Satellites 2: Ground Stations | Coming soon | Coming soon | Coming soon | Coming soon |
 | Satellites 3: Cansats | Coming soon | Coming soon | Coming soon | Coming soon |
-| Satellites 3: Cubesats | Coming soon | Coming soon | Coming soon | Coming soon |
+| Satellites 4: Cubesats | Coming soon | Coming soon | Coming soon | Coming soon |
 | Asteroid Prospecting | Learn about asteroids and identify interesting ones for colonization or resources | Coming soon | Coming soon | Coming soon |
 | Asteroid Mining | Teams design and build a mining robot to extract resources | Coming soon | Coming soon | Coming soon |
 | Settling Space | Teams design and create mockups of extra-terrestrial habitats | Coming soon | Coming soon | Coming soon |
