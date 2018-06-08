@@ -36,16 +36,24 @@ The curriculum is broken down into different units, each focusing on a different
 * **Asteroid Mining**: Teams design and build a mining robot to extract resources
 * **Space Pioneer**: Teams design and create mockups of extra-terrestrial habitats
 
-At the end of each unit, participants will present their findings and results via a presentation, short video, or document.
+Before each activity, participants create a Design Contract, in which they consider what they want to achieve, how to achieve it, how to show they've achieved it, the resources they'll need, and anything that might get in their way.
 
-After successfully completing a unit, participants are awarded with a "badge" (a physical badge *and* virtual credential) from the curriculum badge tree.
+At the end of each unit, participants present their findings and results via a presentation, short video, or document.
+
+After successfully completing a unit, participants are awarded with a "badge" (a physical badge *and* virtual credential) from the curriculum badge tree. (There's more information on this in the *infrastructure* section below)
 
 | Unit | Focus | Objectives | Skills | Tools |
 | --- | --- | --- | --- | --- |
-| Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerba Program](https://kerbalspaceprogram.com/) |
+| Rocket Science | Understanding rocketry and physics | <ul><li>Build a virtual rocket<li>Get rocket into specified orbit<li>Land on "Moon" and return to "Earth"</ul> | <ul><li>Orbital mechanics<li>Rocket science</ul>| [Kerbal Space Program](https://kerbalspaceprogram.com/) |
 | Rocket Engineering | Competing to build the "best" rocket | <ul><li>Work in teams to design a bottle rocket<li>Model it in Kerbal Space Program and adjust as necessary<li>Build rocket<li>Launch rocket | <ul><li>Scientific method and reasoning<li>Maker skills<li>Computer simulation and modeling </ul>| <ul><li>[Kerbal Space Program](https://kerbalspaceprogram.com/)<li>[Bottle Rocket kits](http://www.instructables.com/id/How-To-Make-A-Bottle-Rocket/) |
 | Astronomy | Building a telescope to view celestial bodies | <ul><li>Understand principles of optics and telescopes<li>(Team) build a telescope<li>Log celestial bodies</ul> | <ul><li>3D printing</li><li>Astronomy</li><li>Raspberry Pi/Arduino</li></ul> | <ul><li>[PiKon](https://pikonic.com/) (Elementary)</li><li>[Ultrascope](http://www.openspaceagency.com/ultrascope/) (Advanced)</li> |
-| Satellites 1 | Build and test your own satellite | <ul><li>Learn about how satellites are used</li><li>Learn about weight/power restrictions, etc</li><li>Construct a Kicksat Sprite</li><li>Program a Kicksat Sprite</li></ul> | <ul><li>Circuit board design</li><li>Basic Arduino programming</li></ul> | <ul><li>[Fritzing](fritzing.org/)</li><li>[Kicksat Sprite kits](http://kicksat.github.io/)</li><li>[Arduino Create](https://create.arduino.cc/) |
+| Satellites 1: Kicksats | Build and test your own satellite | <ul><li>Learn about how satellites are used</li><li>Learn about weight/power restrictions, etc</li><li>Construct a Kicksat Sprite</li><li>Program a Kicksat Sprite</li></ul> | <ul><li>Circuits</li><li>Soldering</li><li>Basic Arduino programming</li></ul> | <ul><li>[Fritzing](fritzing.org/)</li><li>[Kicksat Sprite kits](http://kicksat.github.io/)</li><li>[Arduino Create](https://create.arduino.cc/) |
+| Satellites 2: Ground Stations | Coming soon | Coming soon | Coming soon | Coming soon |
+| Satellites 3: Cansats | Coming soon | Coming soon | Coming soon | Coming soon |
+| Satellites 3: Cubesats | Coming soon | Coming soon | Coming soon | Coming soon |
+| Asteroid Prospecting | Learn about asteroids and identify interesting ones for colonization or resources | Coming soon | Coming soon | Coming soon |
+| Asteroid Mining | Teams design and build a mining robot to extract resources | Coming soon | Coming soon | Coming soon |
+| Settling Space | Teams design and create mockups of extra-terrestrial habitats | Coming soon | Coming soon | Coming soon |
 
 
 # Infrastructure
@@ -74,6 +82,10 @@ If we want to get a lot of people involved and build a community, we need a plat
 ## Offline Structure
 
 Teachers, props, classrooms, textbooks, and so on. These are highly dependent on conditions on the ground, so let's cross that bridge when we come to it.
+
+### Fab Labs/Hackerspaces/Makerspaces
+
+Participants will need access to certain tools and facilities for many of the activities in the curriculum. We encourage partnering with a local Fab Lab or makerspace, to give participants exposure to the maker community and real-world tool use.
 
 <hr>
 
