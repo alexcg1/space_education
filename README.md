@@ -1,6 +1,6 @@
 # Introduction
 
-I'm putting together some ideas to improve aerospace education by using hands-on technologies. This is still a work in progress, and written in a very informal style. For the final version I'll rewrite it into a more formal curriculum.
+I'm putting together some ideas to improve aerospace education by using hands-on technologies. This is still a work in progress, and written in a very informal style. For the final version it can be rewritten it into a more formal document.
 
 I work in China sometimes, so if I reference China that's why!
 
@@ -26,7 +26,7 @@ Luckily, there are a bunch of projects out there that let us roll up our sleeves
 
 The curriculum is broken down into different units, each focusing on different objectives and skills.
 
-**Before each activity**: Participants create a Design Contract, in which they consider what they want to achieve, how to achieve it, how to show they've achieved it, the resources they'll need, and anything that might get in their way.
+**Before each activity**: Participants create a Design Document, in which they consider what they want to achieve, how to achieve it, how to show they've achieved it, the resources they'll need, and any obstacles that might get in their way.
 
 **At the end of each unit**:
 
